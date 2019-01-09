@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Acme|Indie+Flower|Josefin+Sans');
+
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px;
+  text-align: justify;
+  }
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 50px;
+  font-weight:bold;
+  border: 2px dotted black;
+  text-align: center;
+  background-color: #F6F4F3;
+}
+h2, h3 {
+  font-family: 'Acme', sans-serif;
+  text-decoration: underline;
+}
+.author {
+  font-style: italic;
+  font-weight: bold;
+}
